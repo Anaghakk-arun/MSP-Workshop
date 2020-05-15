@@ -1,0 +1,14 @@
+HTML
+Basics of html.
+All HTML documents start with a <!DOCTYPE HTML>.
+The HTML document itself starts with <html> and ends with </html>.
+The visible part of the html document is between <body> and </body>.
+HTML headings are dehined with the <h1> to <h6> tags.
+HTML paragraphs are defined with the <p> tag.
+HTML links are defined with the <a> tags.
+The link address is specified in the href attribute.
+HTML images are defined with <img>.
+HTML buttons are defined with <button>.
+HTML lists are defined with <ul> for unordered list and <ol> for ordered list. followed by <li> tags.
+An HTML element usually consists of a start tag and an end tag.
+<br> is an empty element without a closing tag.
